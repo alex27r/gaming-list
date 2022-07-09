@@ -1,3 +1,3 @@
-# Shopping List App Challenge
+# Gaming Wish List App 
 
-This repo contains starter files for the *Shopping List App* challenge.
+This repo contains starter files for the *Gaming Wish List App*.
