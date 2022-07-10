@@ -30,13 +30,13 @@ button:hover {
 
 .shopping-list > li {
   margin-bottom: 20px;
-  border: 1px solid grey;
+  border: 1px solid blue;
   padding: 20px;
 }
 
 .shopping-item {
   display: block;
-  color: grey;
+  color: red;
   font-style: italic;
   font-size: 20px;
   margin-bottom: 15px;
